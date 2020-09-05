@@ -9,7 +9,7 @@ Creating a proto "PlanMyTrip" app, utilizing data gathered using APIs: Cities da
 ---
 
 
-## Deliverable 1  Weather Data
+## Deliverable 1, Weather Data
   see "WeatherPy_database.csv"
 
 
