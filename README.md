@@ -4,7 +4,7 @@ UTMCC DataViz Module 6
 
 ## Introduction
 
-
+Creating a proto "PlanMyTrip" app, utilizing data gathered using APIs: Cities data from citypy, weather data from OpenWeatherMap, and mapping information from Google Maps Platform. 
 
 ---
 
