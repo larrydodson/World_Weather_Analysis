@@ -10,7 +10,7 @@ Creating a proto "PlanMyTrip" app, utilizing data gathered using APIs: Cities da
 
 
 ## Deliverable 1, Weather Data
-    see **"WeatherPy_database.csv"**
+    see "WeatherPy_database.csv"
 
 
 ---
@@ -22,9 +22,9 @@ Creating a proto "PlanMyTrip" app, utilizing data gathered using APIs: Cities da
 ![WeatherPy_vacation_Table.png](https://github.com/larrydodson/World_Weather_Analysis/blob/master/Vacation_Search/WeatherPy_vacation_Table.png)
 
 
+
 **WeatherPy_vacation_map.png  ..  City Marker Layer Map, with pop-up markers for each city on the map.** 
 ![WeatherPy_vacation_map.png](https://github.com/larrydodson/World_Weather_Analysis/blob/master/Vacation_Search/WeatherPy_vacation_map.png)
-
 
 
 
@@ -45,7 +45,8 @@ Creating a proto "PlanMyTrip" app, utilizing data gathered using APIs: Cities da
 **WeatherPy_travel_map_markers.png  ..  Marker layer map with a pop-up marker for each of the four cities on the itinerary.**
 ![WeatherPy_travel_map_markers.png](https://github.com/larrydodson/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
-.
+
+.end
 
 ---
 
